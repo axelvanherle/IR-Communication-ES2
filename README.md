@@ -1,9 +1,9 @@
 # IR-Communication-ES2: A Self-Made PCB Wireless Communication System
 
-The goal of this project is to establish a wireless communication system using self-made PCBs equipped with IR LEDS to transmit messages between devices. The messages can be generated using an Arduino microcontroller or a simple button, which sends the signals to the IR LEDs on the PCBs to transmit data.
+The aim of this project is to create a wireless communication system through self-made PCBs equipped with IR LEDs, which can transmit messages between devices. To generate these messages, an Arduino microcontroller or a simple button can be used, which will send the signals to the IR LEDs present on the PCBs, which will then transmit data.
 
-The system functions by allowing one device to send a message using IR light, which can then be received by another device equipped with a compatible IR receiver. The receiver decodes the message and displays it on a screen or other output device.
+This system operates by allowing one device to send a message using IR light, which can be received by another device equipped with a compatible IR receiver. The receiver will then decode the message and display it on a screen or any other output device.
 
-In this design, each PCB is capable of full duplex communication, allowing it to both transmit and receive messages. This feature ensures that every PCB can communicate with each other.
+In this design, every PCB is capable of full duplex communication, which means that each one can both transmit and receive messages. This feature ensures that all PCBs can communicate with each other.
 
 ![soyled](https://user-images.githubusercontent.com/94362354/219086257-167bd306-9224-439a-ba16-726475401407.png)
