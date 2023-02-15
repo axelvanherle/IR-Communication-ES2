@@ -5,3 +5,5 @@ The goal of this project is to establish a wireless communication system using s
 The system functions by allowing one device to send a message using IR light, which can then be received by another device equipped with a compatible IR receiver. The receiver decodes the message and displays it on a screen or other output device.
 
 In this design, each PCB is capable of full duplex communication, allowing it to both transmit and receive messages. This feature ensures that every PCB can communicate with each other.
+
+![soyled](https://user-images.githubusercontent.com/94362354/219086257-167bd306-9224-439a-ba16-726475401407.png)
