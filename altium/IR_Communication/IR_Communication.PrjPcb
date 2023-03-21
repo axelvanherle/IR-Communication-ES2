@@ -83,6 +83,23 @@ GenerateClassCluster=0
 DocumentUniqueId=UHDIKJSE
 
 [Document3]
+DocumentPath=CPU.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AHRLMULD
+
+[Document4]
 DocumentPath=IR_Communication.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -99,7 +116,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HILPKHPT
 
-[Document4]
+[Document5]
 DocumentPath=IR_Communication_Schematic_Lib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -116,7 +133,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PAOGZZOD
 
-[Document5]
+[Document6]
 DocumentPath=IR_Communication_Schematic_Lib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
