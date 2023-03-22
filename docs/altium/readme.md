@@ -1,10 +1,10 @@
 # Altium Documentation
 
 ## Amplifier
-Instert here
+You can find an explanation for each component used in the amplifier within this subdirectory.
 
 ## CPU Schematic
-Instert here
+You can find an explanation for each component used in the CPU Schematic within this subdirectory.
 
 ## Input Selection
-Instert here
+You can find an explanation for each component used in the input selection within this subdirectory.
