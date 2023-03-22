@@ -1,10 +1,10 @@
 # Documentation
 
 ## Altium
-Instert here
+You can find an explanation for each component for the Altium part of this project within this subdirectory.
 
 ## Arduino
-Instert here
+You can find an explanation for each component for the Arduino part of this project within this subdirectory.
 
 ## Multisim
-Instert here
+You can find an explanation for each component for the Multisim part of this project within this subdirectory.
