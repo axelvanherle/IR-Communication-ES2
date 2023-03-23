@@ -10,7 +10,7 @@
 | MOSFET IRF9530NPBF | 1 | [link](https://www.mouser.be/ProductDetail/Infineon-Technologies/IRF9530NPBF?qs=9%252BKlkBgLFf2oWmEcBf5aZQ%3D%3D)|
 | IR LED | 2 | [link](https://www.mouser.be/ProductDetail/Everlight/EL-IR204-H16-L10?qs=vs%252BWWTB4QKYLfZ6uf%2Fu%252B0Q%3D%3D)|
 | LED staaf | 1 | [link](https://www.mouser.be/ProductDetail/Lumex/SSB-LX2550SGW?qs=K%252Bxkc0srH7Bp%252B5yK7Wnd0w%3D%3D)|
-| Drukknoop | 1 | [link](https://www.mouser.be/ProductDetail/CUI-Devices/TS02-66-50-BK-100-SCR-D?qs=A6eO%252BMLsxmQON%252BZSzpek2A%3D%3D)|
+| Drukknop | 1 | [link](https://www.mouser.be/ProductDetail/CUI-Devices/TS02-66-50-BK-100-SCR-D?qs=A6eO%252BMLsxmQON%252BZSzpek2A%3D%3D)|
 | Opamp | 3 | [link](https://www.mouser.be/ProductDetail/onsemi/NCV833DR2G?qs=tCMd4XlZ%2FiDY0KNDmnILgQ%3D%3D)|
 | Arduino Nano | 2 | NOG TE BESLISSEN|
 | 9V-batterij | 2 | NOG TE BESLISSEN|
