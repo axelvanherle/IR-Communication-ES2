@@ -9,7 +9,7 @@ In addition, this system can also measure the distance between two devices using
 
 In this design, every PCB is capable of duplex communication and distance measurement, which means that both can transmit and receive messages and detect their relative distance. This feature ensures that all PCBs can communicate and measure their distance with each other.
 
-## Directory structure
+## Directory structure and what they are
 This project is organized into several subdirectories. Here is a brief overview of each directory:
 - /altium: This directory contains the schematic design and PCB design for the PCB. All made in altium.
 - /arduino: This directory contains the source code which will be used on the arduinos.
