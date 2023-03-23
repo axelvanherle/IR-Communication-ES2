@@ -12,7 +12,8 @@ In this design, every PCB is capable of duplex communication and distance measur
 
 All documentation can be found under the `docs` folder.
 
-This includes the
+What can be found here?
+
 - Documentation about altium
 - Documentation about arduino
 - Documentation about multisim
