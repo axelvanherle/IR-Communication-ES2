@@ -30,4 +30,4 @@
 | Trimmer 30k | 1 |
 | Trimmer 20k | 1 |
 | Trimmer 10k | 1 |
-| Trimmer 5k | 2 |
+| Trimmer 5k | 3 |
