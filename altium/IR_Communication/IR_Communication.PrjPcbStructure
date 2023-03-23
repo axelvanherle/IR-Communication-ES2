@@ -1,4 +1,5 @@
-Record=TopLevelDocument|FileName=Amplifier.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Amplifier.SchDoc|FileName=CPU.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=Amplifier.SchDoc|FileName=Indicators.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=Amplifier.SchDoc|FileName=Input_Selection.SchDoc|SheetNumber=2
+Record=TopLevelDocument|FileName=Amplifier.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Amplifier.SchDoc|FileName=CPU.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Amplifier.SchDoc|FileName=Indicators.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Amplifier.SchDoc|FileName=Input_Selection.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Amplifier.SchDoc|FileName=Pre_Amplifier.SchDoc|SheetNumber=1
