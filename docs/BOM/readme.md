@@ -13,7 +13,7 @@
 | Drukknop | 1 | [link](https://www.mouser.be/ProductDetail/CUI-Devices/TS02-66-50-BK-100-SCR-D?qs=A6eO%252BMLsxmQON%252BZSzpek2A%3D%3D)|
 | Opamp | 3 | [link](https://www.mouser.be/ProductDetail/onsemi/NCV833DR2G?qs=tCMd4XlZ%2FiDY0KNDmnILgQ%3D%3D)|
 | Arduino Nano | 2 | NOG TE BESLISSEN|
-| 9V-batterij | 2 | NOG TE BESLISSEN|
+| 9V-batterij | 1 | NOG TE BESLISSEN|
 | Jumpers | 2 | NOG TE BESLISSEN|
 
 ## Elfde Linie campus
