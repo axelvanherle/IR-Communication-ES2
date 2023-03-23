@@ -8,4 +8,13 @@ In addition, this system can also measure the distance between two devices using
 
 In this design, every PCB is capable of duplex communication and distance measurement, which means that both can transmit and receive messages and detect their relative distance. This feature ensures that all PCBs can communicate and measure their distance with each other.
 
+## Documentation
+
+All documentation can be found under the `docs` folder.
+
+This includes the
+- Documentation about altium
+- Documentation about arduino
+- Documentation about multisim
+
 ![soyled](https://user-images.githubusercontent.com/94362354/219086257-167bd306-9224-439a-ba16-726475401407.png)
