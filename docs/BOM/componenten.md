@@ -1,4 +1,4 @@
-regulator (1 per PCB); mouser.be/ProductDetail/onsemi/MC7805BDTG?qs=%252B9%2Fcbd0IE0TYE8BQQ8My5g%3D%3D
+regulator (1 per PCB); https://www.mouser.be/ProductDetail/onsemi/MC7805BDTG?qs=%252B9%2Fcbd0IE0TYE8BQQ8My5g%3D%3D
 
 Schroefconnector (1 per PCB); https://www.mouser.be/ProductDetail/CUI-Devices/TB006-508-02BE?qs=vLWxofP3U2wEdOVV%2FaT04w%3D%3D
 
