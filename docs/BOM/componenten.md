@@ -17,3 +17,7 @@ LED staaf (1 per PCB); https://www.mouser.be/ProductDetail/Lumex/SSB-LX2550SGW?q
 Drukknoop (1 per PCB); https://www.mouser.be/ProductDetail/CUI-Devices/TS02-66-50-BK-100-SCR-D?qs=A6eO%252BMLsxmQON%252BZSzpek2A%3D%3D
 
 Opamp (3 per PCB); https://www.mouser.be/ProductDetail/onsemi/NCV833DR2G?qs=tCMd4XlZ%2FiDY0KNDmnILgQ%3D%3D
+
+Zener diode; ???
+
+Op elke PCB enkele; Pin Headers (male), Pin Headers (female), Weerstanden, Trimmers (3x5k, 1x10k, 1x20k, 1x30k op elke PCB), Arduino Nano, 9 Volt batterij, Jumpers.
