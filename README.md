@@ -11,7 +11,7 @@ In this design, every PCB is capable of duplex communication and distance measur
 
 ## Directory structure and what they are
 This project is organized into several subdirectories. Here is a brief overview of each directory:
-- `/altium`: This directory contains the schematic design and PCB design for the PCB. All made in altium.
+- `/altium`: This directory contains the schematic design and PCB design. All made in altium.
 - `/arduino`: This directory contains the source code which will be used on the arduinos.
 - `/multisim`: This directory contains the schematics made in multisim to test our circuits
 
