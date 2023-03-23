@@ -15,3 +15,5 @@ Lineaire regulatoren werken door de extra spanning af te voeren als warmte, terw
 In dit geval, wanneer je een 9 volt batterij aansluit op een lineaire regulator die is ontworpen om de spanning te verlagen tot 5 volt, zal de regulator de ingangsspanning van 9 volt verlagen tot een stabiele uitgangsspanning van 5 volt. Dit gebeurt door gebruik te maken van elektronische componenten zoals transistors en weerstanden om de spanningsval over de componenten te regelen en te verminderen tot de gewenste uitgangsspanning.
 
 Een lineaire regulator werkt als een soort variabele weerstand die de overtollige spanning "wegknijpt" om de gewenste uitgangsspanning te produceren. Het verschil tussen de ingangs- en uitgangsspanning wordt omgezet in warmte.
+
+Er word nog een pinheader geplaatst tussen de uitgang van de regulatoren de volt van het schema. Dit zorgt ervoor dat we makkelijk kunnen zien of de regulator werkt aan de hand van een meting.
