@@ -184,6 +184,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YWSNTCSG
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for IR_Communication\Design Rule Check - IR_Communication.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
